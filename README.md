@@ -78,7 +78,7 @@ entry/src/main/ets/
 ## Limitations
 
 * InsightIntent decorators require API version 20 or later.
-* InsightIntent is Stage-model only; full-ArkTS wearable required, no Lite Wearable support.
+* InsightIntent is Stage-model only; full-ArkTS wearable required, no SportWatch (Lite Wearable) support.
 * Mock data only; no real heart-rate sensor, workout tracking, or contacts.
 * Voice/AI triggering is a scenario assumption and is not reproducible on the emulator; the home shortcuts stand in for the voice commands.
 * The InsightIntentLink uri is a placeholder; a real deep-link jump requires App Linking with a verified domain.
