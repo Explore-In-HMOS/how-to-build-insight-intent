@@ -2,7 +2,7 @@
 
 # How to Build Insight Intent
 
-A HarmonyOS NEXT application for smartwatches that demonstrates a voice-triggerable shortcut system built entirely on InsightIntent. Built with ArkTS and ArkUI, it maps three watch shortcuts to five InsightIntent mechanisms so users can say "show heart rate" to open the health dashboard, "start running" to launch the workout tracker, and "call emergency" to open the preset-contact call screen, each routed through Entry, Function, Function Method, Link, and Page intents all designed for the round watch screen.
+A HarmonyOS application for smartwatches that demonstrates a voice-triggerable shortcut system built entirely on InsightIntent. Built with ArkTS and ArkUI, it maps three watch shortcuts to five InsightIntent mechanisms so users can say "show heart rate" to open the health dashboard, "start running" to launch the workout tracker, and "call emergency" to open the preset-contact call screen, each routed through Entry, Function, Function Method, Link, and Page intents all designed for the round watch screen.
 
 # Preview
 
